@@ -109,18 +109,5 @@ hospital-search-engine/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-Your Name - [your-email@example.com]
-Project Link: [https://github.com/yourusername/hospital-search-engine]
-
-## Acknowledgments
-
-- PyTerrier team for the search framework
-- Hugging Face for BERT implementation
-- NLTK team for NLP tools
-- Flask team for the web framework
